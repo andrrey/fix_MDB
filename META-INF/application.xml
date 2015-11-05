@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application id="Application_ID">
+    <display-name>Fix</display-name>
+    <module id="Fix">
+        <ejb>fix_EJB.jar</ejb>
+    </module>
+</application>
